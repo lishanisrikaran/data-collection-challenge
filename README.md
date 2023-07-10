@@ -6,7 +6,7 @@ Summary: This project collects data using web scraping techniques, the data is t
 This assignment consists of two technical products:
 <li> Deliverable 1: Scrape titles and preview text from Mars news articles.</li>
 Webpage URL: https://static.bc-edx.com/data/web/mars_news/index.html
-
+<br>
 <li> Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.</li>
 Webpage URL: https://static.bc-edx.com/data/web/mars_facts/temperature.html
 Qustions answered within this deliverable: 
