@@ -7,7 +7,7 @@ This assignment consists of two technical products:
 <li> <b>Deliverable 1:</b> Scrape titles and preview text from Mars news articles.</li>
 Webpage URL: https://static.bc-edx.com/data/web/mars_news/index.html
 
-<br <li> <b>Deliverable 2:</b> Scrape and analyze Mars weather data, which exists in a table.</li>
+<br> <li> <b>Deliverable 2:</b> Scrape and analyze Mars weather data, which exists in a table.</li>
 Webpage URL: https://static.bc-edx.com/data/web/mars_facts/temperature.html
 
 <br>Qustions answered within this deliverable: 
