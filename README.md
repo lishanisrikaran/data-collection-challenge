@@ -10,7 +10,7 @@ Webpage URL: https://static.bc-edx.com/data/web/mars_news/index.html
 <br> <li> <b>Deliverable 2:</b> Scrape and analyze Mars weather data, which exists in a table.</li>
 Webpage URL: https://static.bc-edx.com/data/web/mars_facts/temperature.html
 
-<br>Qustions answered within this deliverable: 
+<br>Questions answered within this deliverable: 
 <br>1. How many months exist on Mars?
 <br>2. How many Martian (and not Earth) days worth of data exist in the scraped dataset?
 <br>3. What are the coldest and the warmest months on Mars (at the location of Curiosity)?
