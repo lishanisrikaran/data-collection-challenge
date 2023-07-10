@@ -6,10 +6,10 @@ Summary: This project collects data using web scraping techniques, the data is t
 This assignment consists of two technical products:
 <li> Deliverable 1: Scrape titles and preview text from Mars news articles.</li>
 Webpage URL: https://static.bc-edx.com/data/web/mars_news/index.html
-<br>
-<li> Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.</li>
+
+<br><li> Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.</li>
 Webpage URL: https://static.bc-edx.com/data/web/mars_facts/temperature.html
-Qustions answered within this deliverable: 
+<br>Qustions answered within this deliverable: 
 <br>1. How many months exist on Mars?
 <br>2. How many Martian (and not Earth) days worth of data exist in the scraped dataset?
 <br>3. What are the coldest and the warmest months on Mars (at the location of Curiosity)?
